@@ -44,31 +44,31 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ ![alt text](<WhatsApp Image 2026-03-15 at 18.33.45 (2).jpeg>)
 
 
 b.  KCL:
- 
+ ![alt text](<WhatsApp Image 2026-03-15 at 18.33.45 (3).jpeg>)
 
 Calculation:
 
 a.   KVL:
- 
+ ![alt text](<WhatsApp Image 2026-03-15 at 18.33.46.jpeg>)
 
 
 b.  KCL:
-
+![alt text](<WhatsApp Image 2026-03-15 at 18.33.44.jpeg>)
 
 
 
 Tabulation:
 
 a.   KVL:
- 
+ ![alt text](<WhatsApp Image 2026-03-15 at 18.33.45.jpeg>)
 
 
 b.  KCL:
-
+![alt text](<WhatsApp Image 2026-03-15 at 18.33.45 (1).jpeg>)
 
 
 RESULT:
